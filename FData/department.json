@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "Name": "Surgery",
+      "Department": "IT",
+      "img":"/images/service/service-1.jpg"
+    },
+    {
+      "id": 2,
+      "Name": "ICU",
+      "Department": "RMO",
+      "img":"/images/service/service-6.jpg"
+    },
+    {
+      "id": 3,
+      "Name": "CCU",
+      "Department": "Doctor",
+      "img":"/images/service/service-2.jpg"
+    },
+    {
+      "id": 4,
+      "Name": "NICU",
+      "Department": "supervisor",
+      "img":"/images/service/service-3.jpg"
+    },
+    {
+      "id": 5,
+      "Name": "Labour OT",
+      "Department": "IT",
+      "img":"/images/service/service-4.jpg"
+    },
+    {
+      "id": 6,
+      "Name": "Dialysis",
+      "Department": "IT",
+      "img":"/images/service/service-5.jpg"
+    }
+    
+  ]

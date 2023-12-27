@@ -1,0 +1,70 @@
+[
+    {
+      "id": 1,
+      "Name": "Endoscopy",
+      "Department": "IT",
+      "img":"https://i.ibb.co/BVTM7w3/091A6891.jpg",
+      "phone":"+8801841906090",
+   
+          "titlee":"Age forming covered you entered the examine. Blessing scarcely confined hercontempt wondered shy. Dashwoods contented sportsmen at up no convinced cordially affection.",
+          "details":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum recusandae dolor autemlaudantium, quaerat vel dignissimos. Magnam sint suscipit omnis eaque unde eos aliquamdistinctio, quisquam iste, itaque possimus . Lorem ipsum dolor sit amet, consecteturadipisicing elit. Eveniet alias modi eaque, ratione recusandae cupiditate dolorumrepellendus iure eius rerum hic minus ipsa at, corporis nesciunt tempore vero voluptas.Tempore"
+      
+    },
+    {
+      "id": 2,
+      "Name": "CT scan",
+      "Department": "RMO",
+      "img":"https://i.ibb.co/BVTM7w3/091A6891.jpg",
+      "phone":"+8801841906090",
+    
+          "titlee":"Age forming covered you entered the examine. Blessing scarcely confined hercontempt wondered shy. Dashwoods contented sportsmen at up no convinced cordially affection.",
+          "details":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum recusandae dolor autemlaudantium, quaerat vel dignissimos. Magnam sint suscipit omnis eaque unde eos aliquamdistinctio, quisquam iste, itaque possimus . Lorem ipsum dolor sit amet, consecteturadipisicing elit. Eveniet alias modi eaque, ratione recusandae cupiditate dolorumrepellendus iure eius rerum hic minus ipsa at, corporis nesciunt tempore vero voluptas.Tempore"
+      
+    },
+    {
+      "id": 3,
+      "Name": "Haematology",
+      "Department": "Doctor",
+      "img":"https://i.ibb.co/BVTM7w3/091A6891.jpg",
+      "phone":"+8801841906090",
+
+          "titlee":"Age forming covered you entered the examine. Blessing scarcely confined hercontempt wondered shy. Dashwoods contented sportsmen at up no convinced cordially affection.",
+          "details":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum recusandae dolor autemlaudantium, quaerat vel dignissimos. Magnam sint suscipit omnis eaque unde eos aliquamdistinctio, quisquam iste, itaque possimus . Lorem ipsum dolor sit amet, consecteturadipisicing elit. Eveniet alias modi eaque, ratione recusandae cupiditate dolorumrepellendus iure eius rerum hic minus ipsa at, corporis nesciunt tempore vero voluptas.Tempore"
+      
+    },
+    {
+      "id": 4,
+      "Name": "ECG",
+      "Department": "supervisor",
+      "img":"https://i.ibb.co/BVTM7w3/091A6891.jpg",
+      "phone":"+8801841906090",
+  
+          "titlee":"Age forming covered you entered the examine. Blessing scarcely confined hercontempt wondered shy. Dashwoods contented sportsmen at up no convinced cordially affection.",
+          "details":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum recusandae dolor autemlaudantium, quaerat vel dignissimos. Magnam sint suscipit omnis eaque unde eos aliquamdistinctio, quisquam iste, itaque possimus . Lorem ipsum dolor sit amet, consecteturadipisicing elit. Eveniet alias modi eaque, ratione recusandae cupiditate dolorumrepellendus iure eius rerum hic minus ipsa at, corporis nesciunt tempore vero voluptas.Tempore"
+      
+    },
+    {
+      "id": 5,
+      "Name": "ETT",
+      "Department": "IT",
+      "img":"https://i.ibb.co/BVTM7w3/091A6891.jpg",
+      "phone":"+8801841906090",
+    
+          "titlee":"Age forming covered you entered the examine. Blessing scarcely confined hercontempt wondered shy. Dashwoods contented sportsmen at up no convinced cordially affection.",
+          "details":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum recusandae dolor autemlaudantium, quaerat vel dignissimos. Magnam sint suscipit omnis eaque unde eos aliquamdistinctio, quisquam iste, itaque possimus . Lorem ipsum dolor sit amet, consecteturadipisicing elit. Eveniet alias modi eaque, ratione recusandae cupiditate dolorumrepellendus iure eius rerum hic minus ipsa at, corporis nesciunt tempore vero voluptas.Tempore"
+      
+    },
+    {
+      "id": 6,
+      "Name": "Ultra",
+      "Department": "IT",
+      "img":"https://i.ibb.co/BVTM7w3/091A6891.jpg",
+      "phone":"+8801841906090",
+     
+          "titlee":"Age forming covered you entered the examine. Blessing scarcely confined hercontempt wondered shy. Dashwoods contented sportsmen at up no convinced cordially affection.",
+          "details":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum recusandae dolor autemlaudantium, quaerat vel dignissimos. Magnam sint suscipit omnis eaque unde eos aliquamdistinctio, quisquam iste, itaque possimus . Lorem ipsum dolor sit amet, consecteturadipisicing elit. Eveniet alias modi eaque, ratione recusandae cupiditate dolorumrepellendus iure eius rerum hic minus ipsa at, corporis nesciunt tempore vero voluptas.Tempore"
+      
+    }
+    
+  ]
+  

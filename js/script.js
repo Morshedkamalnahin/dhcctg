@@ -63,6 +63,47 @@
 		  
   		]
 	});
+	
+	  
+	  
+	//   function initializeCarousel() {
+	// 	fetchData().then(data => {
+	// 	  // Create HTML content for each item
+	// 	  const carouselItems = data.map(item => `<div>${item.id}</div>`);
+	  
+	// 	  // Append items to the carousel
+	// 	  const carouselContainer = document.getElementById('dynamic-carousel');
+	// 	  carouselContainer.innerHTML = carouselItems;
+	  
+	// 	  // Initialize Owl Carousel
+	// 	  $(document).ready(function(){
+	// 		$('.owl-carousel').owlCarousel({
+	// 		  items: 3, // Number of items to display
+	// 		  loop: true,
+	// 		  margin: 10,
+	// 		  responsiveClass:true,
+	// 		  responsive:{
+	// 			0:{
+	// 			  items:1,
+	// 			  nav:true
+	// 			},
+	// 			600:{
+	// 			  items:3,
+	// 			  nav:false
+	// 			},
+	// 			1000:{
+	// 			  items:5,
+	// 			  nav:true,
+	// 			  loop:false
+	// 			}
+	// 		  }
+	// 		});
+	// 	  });
+	// 	});
+	//   }
+	  
+	//   // Call the function to initialize the carousel
+	//   initializeCarousel();
 
 	$('.testimonial-wrap').slick({
 		slidesToShow: 1,
@@ -109,19 +150,19 @@
 	});
 
 	$('.testimonial-wrap-2').slick({
-		slidesToShow: 2,
-		slidesToScroll: 2,
+		slidesToShow: 3,
+		slidesToScroll: 3,
 		infinite: true,
 		dots: true,
 		arrows:false,
 		autoplay: true,
-		autoplaySpeed: 6000,
+		autoplaySpeed: 3000,
 		responsive: [
 		    {
 		      breakpoint: 1024,
 		      settings: {
-		        slidesToShow:2,
-		        slidesToScroll:2,
+		        slidesToShow:3,
+		        slidesToScroll:3,
 		        infinite: true,
 		        dots: true
 		      }
@@ -129,14 +170,14 @@
 		    {
 		      breakpoint: 900,
 		      settings: {
-		        slidesToShow: 1,
-		        slidesToScroll: 1
+		        slidesToShow: 2,
+		        slidesToScroll: 2
 		      }
 		    },{
 		      breakpoint: 600,
 		      settings: {
-		        slidesToShow: 1,
-		        slidesToScroll: 1
+		        slidesToShow: 2,
+		        slidesToScroll: 2
 		      }
 		    },
 		    {

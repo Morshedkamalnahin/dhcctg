@@ -1,0 +1,76 @@
+[
+    {
+      "id": 1,
+      "Name": "Dr S. M. Ifekharul Islam",
+      "Department": "cardiology",
+      "specalist":"cardiologist",
+      "degree":"MBBS, BCS(health), MD(Cardiology)",
+      "designation":"Consultant, cardiology",
+      "time":"Saturday,Sunday,Tuesday,wednesday (5:00pm to 9:00pm)",
+      "room":212,
+      "img":"https://i.ibb.co/n10yvDk/4.jpg",
+      "phone": "0184354351"
+    },
+    {
+      "id": 2,
+      "Name": "Dr Kazi Shamim Al Mamun",
+      "Department": "cardiology",
+      "specalist":"cardiologist",
+      "degree":"MBBS, BCS(health), MD(Cardiology)",
+      "designation":"Consultant, Cox'sbazar medical college",
+      "time":"Saturday,Monday,Tuesday (6:00pm to 9:30pm)",
+      "room":315,
+      "img":"https://i.ibb.co/n10yvDk/4.jpg",
+      "phone": "0184354351"
+    },
+    {
+      "id": 3,
+      "Name": "Dr Md Syedul Alam Qurishy",
+      "Department": "cardiology",
+      "specalist":"cardiologist",
+      "degree":"MBBS (RU), BCS(health), CCD(Bardem), D-card(CU)",
+      "designation":"Senior Consultant, Cardiology",
+      "time":"Saturday to Thursday (8:00pm to 10:00pm) & Friday (9:00am to 12:00pm)",
+      "room":218,
+      "img":"https://i.ibb.co/n10yvDk/4.jpg",
+      "phone": "0184354351"
+    },
+    {
+      "id": 4,
+      "Name": "Dr Md Imtiaz Uddin",
+      "Department": "cardiology",
+      "specalist":"cardiologist",
+      "degree":"MBBS, BCS(health), D-card(BSMMU)",
+      "designation":"Consultant, Cardiology",
+      "time":"Saturday to Thursday (7:00pm to 9:00pm)",
+      "room":320,
+      "img":"https://i.ibb.co/n10yvDk/4.jpg",
+      "phone": "0184354351"
+    },
+    {
+      "id": 5,
+      "Name": "doctor 5",
+      "Department": "cardiology",
+      "specalist":"cardiologist",
+      "degree":"MBBS, BCS(health), MD(Cardiology)",
+      "designation":"Consultant, cox'sbazar medical college",
+      "time":"Saturday,Monday,Tuesday (6:00pm to 9:30pm)",
+      "room":207,
+      "img":"https://i.ibb.co/n10yvDk/4.jpg",
+      "phone": "0184354351"
+    },
+    {
+      "id": 6,
+      "Name": "doctor 6",
+      "Department": "cardiology",
+      "specalist":"cardiologist",
+      "degree":"MBBS, BCS(health), MD(Cardiology)",
+      "designation":"Consultant, cox'sbazar medical college",
+      "time":"Saturday,Monday,Tuesday (6:00pm to 9:30pm)",
+      "room":207,
+      "img":"https://i.ibb.co/n10yvDk/4.jpg",
+      "phone": "0184354351"
+    }
+    
+  ]
+  

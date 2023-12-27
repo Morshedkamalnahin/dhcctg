@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "Name": "Surgery",
+      "Department": "IT",
+      "img":"https://i.ibb.co/M9WYKgB/CAP-3798.jpg",
+      "phone":"+8801841-906090"
+    },
+    {
+      "id": 2,
+      "Name": "ICU",
+      "Department": "RMO",
+      "img":"https://i.ibb.co/Qr3FyhB/Level-04.jpg",
+      "phone":"+8801841-906090"
+    },
+    {
+      "id": 3,
+      "Name": "CCU",
+      "Department": "Doctor",
+      "img":"https://i.ibb.co/K0fpzkX/CAP-3778.jpg",
+      "phone":"+8801841-906090"
+    },
+    {
+      "id": 4,
+      "Name": "NICU",
+      "Department": "supervisor",
+      "img":"https://i.ibb.co/1LqkF8f/CAP-3783.jpg",
+      "phone":"+8801841-906090"
+    },
+    {
+      "id": 5,
+      "Name": "Labour OT",
+      "Department": "IT",
+      "img":"https://i.ibb.co/zbBbXRc/CAP-3794.jpg",
+      "phone":"+8801841-906090"
+    },
+    {
+      "id": 6,
+      "Name": "Dialysis",
+      "Department": "IT",
+      "img":"https://i.ibb.co/MfZmbHw/dialysis.jpg",
+      "phone":"+8801841-906090"
+    }
+    
+  ]
