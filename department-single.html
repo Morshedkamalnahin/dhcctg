@@ -333,7 +333,13 @@ document.addEventListener('DOMContentLoaded', function() {
   const productDetails = document.getElementById('single-department');
   const urlParams = new URLSearchParams(window.location.search);
   const productId = parseInt(urlParams.get('id'), 10);
-
+let doctors;
+console.log("from out side",doctors)
+	fetch("FData/doctors.json")
+	.then((res)=> res.json())
+	.then((result)=>{
+		doctors=result;
+	});
 
 
   fetch("FData/department.json")
@@ -341,10 +347,16 @@ document.addEventListener('DOMContentLoaded', function() {
   .then((data) => {
     console.log(data);
 
+	// console.log(Da)
 	const product = getProductById(productId);
+// doctors.filter(doctor=>doctor.Department===product.Name);
+const docc= doctors.filter(doctor=>doctor.Department.toUpperCase()===product.Name);
+console.log(docc);
+const ddo = docc.map(dooc=>dooc.Name)
 
 // Display product details
 if (product) {
+
   const productHTML = `	<section class="page-title bg-1">
 		<div class="overlay"></div>
 		<div class="container">
@@ -381,9 +393,7 @@ if (product) {
 					<div class="department-content mt-5">
 						<h3 class="text-md">${product.Name}</h3>
 						<div class="divider my-4"></div>
-						<p class="lead">Age forming covered you entered the examine. Blessing scarcely confined her
-							contempt wondered shy. Dashwoods contented sportsmen at up no convinced cordially affection.
-						</p>
+					
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum recusandae dolor autem
 							laudantium, quaerat vel dignissimos. Magnam sint suscipit omnis eaque unde eos aliquam
 							distinctio, quisquam iste, itaque possimus . Lorem ipsum dolor sit amet, consectetur
@@ -426,7 +436,6 @@ if (product) {
 								<span>Closed</span>
 							</li>
 						</ul>
-
 						<div class="sidebar-contatct-info mt-4">
 							<p class="mb-0">Need Urgent Help?</p>
 							<h3>+23-4565-65768</h3>

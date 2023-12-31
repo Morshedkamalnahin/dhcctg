@@ -1,39 +1,71 @@
 [
     {
       "id": 1,
-      "Name": "Surgery",
+      "Name": "MEDICINE",
       "Department": "IT",
-      "img":"/images/service/service-1.jpg"
+      "img":"/images/service/service-1.jpg",
+      "des":"You have a fever and also a little pain in the chest for about a week. Everyone is saying to show the doctor. But do not understand which doctor you have to go to. The kind of doctors we go to in this kind of situation are the doctors of medicine. These reputable physicians treat patients by prescribing medications according to their condition, not in any specific field, and refer to the specialist doctor at a particular specialty. At Delta Health Care Chittagong Limited, the eight best medicine specialists of Chittagong are providing treatment to patients."
     },
     {
       "id": 2,
-      "Name": "ICU",
+      "Name": "ORTHOPEDICS",
       "Department": "RMO",
       "img":"/images/service/service-6.jpg"
     },
     {
       "id": 3,
-      "Name": "CCU",
+      "Name": "NEPHROLOGY",
       "Department": "Doctor",
       "img":"/images/service/service-2.jpg"
     },
     {
       "id": 4,
-      "Name": "NICU",
+      "Name": "UROLOGY",
       "Department": "supervisor",
       "img":"/images/service/service-3.jpg"
     },
     {
       "id": 5,
-      "Name": "Labour OT",
+      "Name": "CARDIOLOGY",
       "Department": "IT",
-      "img":"/images/service/service-4.jpg"
+      "img":"/images/service/service-6.jpg"
     },
     {
       "id": 6,
-      "Name": "Dialysis",
+      "Name": "GYNAE & OBS",
       "Department": "IT",
-      "img":"/images/service/service-5.jpg"
+     "img":"/images/service/service-6.jpg"
+    },
+    {
+      "id": 7,
+      "Name": "ENT",
+      "Department": "IT",
+     "img":"/images/service/service-6.jpg"
+    },
+    {
+      "id": 8,
+      "Name": "GASTROENTEROLOGY",
+      "Department": "IT",
+      "img":"/images/service/service-6.jpg"
+    },
+    {
+      "id": 9,
+      "Name": "PEDIATRICS",
+      "Department": "IT",
+     "img":"/images/service/service-6.jpg"
+    },
+    {
+      "id": 10,
+      "Name": "SKIN & VD",
+      "Department": "IT",
+      "img":"/images/service/service-6.jpg"
+    },
+   
+    {
+      "id": 11,
+      "Name": "SURGERY",
+      "Department": "IT",
+      "img":"/images/service/service-6.jpg"
     }
     
   ]

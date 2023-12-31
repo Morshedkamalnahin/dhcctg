@@ -1,45 +1,82 @@
 [
     {
       "id": 1,
-      "Name": "Surgery",
-      "Department": "IT",
+      "Name": "Genarel OT",
       "img":"https://i.ibb.co/M9WYKgB/CAP-3798.jpg",
-      "phone":"+8801841-906090"
+      "phone":"+8801841-906090",
+      "title":"Our operation theatres (OT) are state-of-the-art facilities designed for optimal efficiency, and facilitate a seamless operational flow for performing complex surgical operations.",
+      "desc":"Our operation theatres (OT) are state-of-the-art facilities designed for optimal efficiency, and facilitate a seamless operational flow for performing complex surgical operations. Every one of our operating rooms is equipped with sophisticated equipment from positive pressure rooms and ceiling-mounted equipment units to the latest advancements in surgical technology for performance at the highest level. To reduce the risk of infection, total OT floor is covered with epoxy; all units operate with single-use surgical devices only. Our operation theater is furnished with upgrade surgical equipments- Like, C- Arm Machine (Siemens), Laser Machine (Luminous), Thunder bit Machine for general & urological operation specially saline TURP, C- Arm compatible OT Table with Orthopedic extension, Anesthesia Machine with special monitor, LED OT Light, Thunder bit diathermy Saline TURP  Set, Laparoscopic machine with Hi definition Camera System with all accessories."
+
     },
     {
       "id": 2,
       "Name": "ICU",
-      "Department": "RMO",
       "img":"https://i.ibb.co/Qr3FyhB/Level-04.jpg",
-      "phone":"+8801841-906090"
+      "phone":"+8801866-939301",
+      "title":"Experience unparalleled critical care in our ICU. Our dedicated team and advanced facilities ensure 24/7 monitoring and personalized attention for optimal patient well-being. ",
+      "desc":"Discover exceptional critical care within our Intensive Care Unit (ICU) at Delta health Care Chittagong Ltd. Committed to patient well-being, our specialized team provides round-the-clock monitoring and personalized attention. Our ICU is meticulously equipped with state-of-the-art facilities to address the most complex medical conditions, ensuring each patient receives the highest standard of care. Whether facing emergencies or undergoing planned procedures, our advanced medical technology and experienced professionals prioritize your health. At Delta health Care Chittagong Ltd., we merge precision and compassion to create an environment where every patient receives the specialized care they need. Trust us to safeguard your health and well-being with unwavering dedication, making your journey to recovery as seamless and comfortable as possible. Your health is our priority, and we are dedicated to providing the optimal care for your peace of mind."
     },
     {
       "id": 3,
       "Name": "CCU",
-      "Department": "Doctor",
       "img":"https://i.ibb.co/K0fpzkX/CAP-3778.jpg",
-      "phone":"+8801841-906090"
+      "phone":"+8801866-939302",
+      "title":"Our CCU delivers advanced cardiac care. With a dedicated team and cutting-edge facilities, we provide 24/7 monitoring and personalized attention for optimal heart health",
+      "desc":"Welcome to the Cardiac Care Unit (CCU) at Delta health Care Chittagong Ltd., where your heart health is our top priority. Our state-of-the-art CCU combines advanced technology with compassionate care to deliver exceptional cardiac services. Our dedicated team provides round-the-clock monitoring and personalized attention, ensuring that every patient receives the highest standard of care. Whether managing cardiac emergencies or planned interventions, our CCU is designed to meet the unique needs of each individual. With a focus on precision and empathy, we create a supportive environment for cardiac recovery, offering reassurance and comfort during critical moments. At Delta health Care Chittagong Ltd., we take pride in delivering optimal care for your heart health, providing specialized attention in our advanced Cardiac Care Unit to ensure your well-being and peace of mind."
+
     },
     {
       "id": 4,
       "Name": "NICU",
-      "Department": "supervisor",
       "img":"https://i.ibb.co/1LqkF8f/CAP-3783.jpg",
-      "phone":"+8801841-906090"
+      "phone":"+8801841-090604",
+      "title":"Our NICU provides specialized care for newborns. With advanced facilities and a dedicated team, we ensure 24/7 monitoring and personalized attention for the well-being of your precious little one",
+      "desc":"Welcome to the Neonatal Intensive Care Unit (NICU) at Delta health care Chittagong Ltd, where your newborn receives unparalleled care. Our dedicated team, equipped with advanced facilities, provides 24/7 monitoring and personalized attention. Designed to address the unique needs of premature or critically ill infants, our NICU ensures the highest standard of care for the tiniest members of your family. With a commitment to precision and compassion, our skilled professionals prioritize the health and well-being of your newborn, creating a supportive environment for their growth and development. Trust us to navigate the challenges of early infancy, ensuring a secure and nurturing space for your little one. At Delta health care Chittagong Ltd, we take pride in offering optimal care, providing comfort and reassurance during this delicate stage of life.  11 bed NICU and 7 bed PICU with cabin dedicated for critically ill new born patients with following features Warmer, baby cot, Neonatal ventilator, C-PAP machine, LED phototherapy, cardiac monitor, pulse oxymetre, Head box, vacuum sucker and syringe pump.  "
+
     },
     {
       "id": 5,
       "Name": "Labour OT",
-      "Department": "IT",
       "img":"https://i.ibb.co/zbBbXRc/CAP-3794.jpg",
-      "phone":"+8801841-906090"
+      "phone":"+8801841-906090",
+      "desc":"Completely separate Labour Unit - A unique facilities of DHC. Labour unit dedicated for Safe delivery (normal or cesarean) of a women. Maternal and child care, pregnancy planning and cheek-up is daily activity of this unit. We expanded our gynae unit with general bed, observation and post operative service."
+
     },
     {
       "id": 6,
       "Name": "Dialysis",
-      "Department": "IT",
       "img":"https://i.ibb.co/MfZmbHw/dialysis.jpg",
-      "phone":"+8801841-906090"
+      "phone":"+8801841-242824",
+      "title":"Five Fresenius medical care AG & Co. KG4A (Germany) dialysis machines with all modern equipment used for dialysis of patient with CKD and acquit renal failure.",
+      "desc":"Five Fresenius medical care AG & Co. KG4A (Germany) dialysis machines with all modern equipment used for dialysis of patient with CKD and acquit renal failure. "
+
+    },
+    {
+      "id": 7,
+      "Name": "All type of laparoscopic Surgery ",
+      "img":"https://i.ibb.co/MfZmbHw/dialysis.jpg",
+      "phone":"+8801841-242824",
+      "title":"Five Fresenius medical care AG & Co. KG4A (Germany) dialysis machines with all modern equipment used for dialysis of patient with CKD and acquit renal failure.",
+      "desc":"Five Fresenius medical care AG & Co. KG4A (Germany) dialysis machines with all modern equipment used for dialysis of patient with CKD and acquit renal failure. "
+
+    },
+    {
+      "id": 8,
+      "Name": "Dialysis",
+      "img":"https://i.ibb.co/MfZmbHw/dialysis.jpg",
+      "phone":"+8801841-242824",
+      "title":"Experience exceptional renal care in our Dialysis Unit. Our advanced facilities and dedicated team ensure personalized attention for optimal kidney health.",
+      "desc":" Experience superior renal care at Delta health care Chittagong Ltd Dialysis Unit. Our specialized team, equipped with advanced technology, provides personalized attention for each patient's unique renal health needs. Whether for routine dialysis or addressing specific conditions, our commitment to your well-being is unwavering. We understand the challenges associated with renal health, and our skilled professionals strive to create a supportive and comfortable environment for your dialysis experience. Delta health care Chittagong Ltd ,we take pride in delivering optimal care for your renal health, ensuring that every patient receives the specialized attention they deserve in our state-of-the-art Dialysis Unit "
+
+    },
+    {
+      "id": 9,
+      "Name": "24/7 Emergency Care",
+      "img":"https://i.ibb.co/MfZmbHw/dialysis.jpg",
+      "phone":"+8801841-242824",
+      "title":"Responsive 24/7 emergency care at Delta Health Care Chittagong Ltd. Our dedicated team ensures immediate attention and advanced medical interventions for prompt and effective emergency services ",
+      "desc":"Our 24/7 Emergency Services combine immediate care with advanced medical interventions. From trauma to critical conditions, our expert team is prepared to deliver swift and effective responses. Equipped with cutting-edge technology, our Emergency Department ensures patients receive prompt attention and compassionate care when every moment matters. Trust [Your Hospital's Name] for reliable and responsive emergency services, where our commitment to your well-being shines through, providing the care and support you need during critical situations, day or night "
+
     }
     
   ]

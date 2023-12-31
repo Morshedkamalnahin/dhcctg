@@ -370,18 +370,12 @@
 	if (product) {
 	  const productHTML = `	<section class="page-title bg-1">
 		<div class="overlay"></div>
-		<div class="container">
+
 			<div class="row">
 				<div class="col-md-12">
 					<div class="block text-center">
 						<span class="text-white">Doctor Details</span>
 						<h1 class="text-capitalize mb-5 text-lg">${product.Name}</h1>
-
-						<!-- <ul class="list-inline breadcumb-nav">
-            <li class="list-inline-item"><a href="index.html" class="text-white">Home</a></li>
-            <li class="list-inline-item"><span class="text-white">/</span></li>
-            <li class="list-inline-item"><a href="#" class="text-white-50">Doctor Details</a></li>
-          </ul> -->
 					</div>
 				</div>
 			</div>
@@ -389,12 +383,12 @@
 	</section>
 
 
-	<section class="section doctor-single">
+	<section class="section doctor-single ">
 		<div class="container">
-			<div class="row">
-				<div class="col-lg-4 col-md-6">
-					<div class="doctor-img-block">
-						<img src="images/team/1.jpg" alt="" class="img-fluid w-100">
+			<div class="row align-items-center justify-content-between">
+				<div class="col-lg-6 col-md-6 col-sm-12">
+					<div class="doctor-img-block mx-auto">
+						<img src="images/team/1.jpg" alt="" class="img-fluid w-80">
 
 						<div class="info-block mt-4">
 							<h4 class="mb-0">${product.Name}</h4>
@@ -404,31 +398,52 @@
 					</div>
 				</div>
 
-				<div class="col-lg-8 col-md-6">
-					<div class="doctor-details mt-4 mt-lg-0">
-						<h2 class="text-md">Profile</h2>
-						<p>${product.designation}</p><br/>
-					<p>${product.degree}</p><br/>
-					<p>${product.department}</p><br/>
-					<p>${product.time}</p><br/>
-					<p>${product.room}</p><br/>
-					<p>${product.phone}</p><br/>
+				<div class="col-lg-6 col-md-6 col-sm-12 justify-content-center p-2">
+					<h2 class="text-md">Profile</h2></br>
+					<div class="doctor-details mt-4 mt-lg-0 row">
+					
+					<div class="col-lg-6 col-md-6 col-sm-12 p-2">
+						<h6><i class="icofont-user-suited"> </i>Designation</h6>
+						<p>${product.designation}</p>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-12 p-2">
+						<h6><i class="icofont-graduate"> </i>Degree</h6>
+						<p>${product.degree}</p>
+					</div>
+					
+					<div class="col-lg-6 col-md-6 col-sm-12 p-2">
+						<h6><i class="icofont-ui-calendar"> </i>Time & Date</h6>
+						<p>${product.time}</p>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-12 p-2">
+						<h6><i class="icofont-ui-office"> </i>Room No.</h6>
+						<p>${product.room}</p>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-12 p-2">
+						<h6><i class="icofont-ui-call"> </i>For Appointment</h6>
+						<p>${product.phone}</p>
+					</div>
+					
 				
 				
-						<div class="divider my-4"></div>
+					
+					
+				
+				
+						<!---<div class="divider my-4"></div>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam tempore cumque voluptate
-							beatae quis inventore sapiente nemo, a eligendi nostrum expedita veritatis neque incidunt
-							ipsa doloribus provident ex, at ullam. Lorem ipsum dolor sit amet, consectetur adipisicing
+						beatae quis inventore sapiente nemo, a eligendi nostrum expedita veritatis neque incidunt
+						ipsa doloribus provident ex, at ullam. Lorem ipsum dolor sit amet, consectetur adipisicing
 							elit. Ipsam, perferendis officiis esse quae, nobis eius explicabo quidem? Officia accusamus
 							repudiandae ea esse non reiciendis accusantium voluptates, facilis enim, corrupti eligendi?
 						</p>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo recusandae veritatis minus
 							optio quod obcaecati laborum temporibus, deleniti vero perferendis molestias, ducimus
-							facilis, sunt minima. Tempora, amet quasi asperiores voluptas?</p>
+						facilis, sunt minima. Tempora, amet quasi asperiores voluptas?</p>
 
 						<a href="#" class="btn btn-main-2 btn-round-full mt-3">Make an Appoinment<i
-								class="icofont-simple-right ml-2  "></i></a>
-					</div>
+							class="icofont-simple-right ml-2  "></i></a>--->
+					 </div>
 				</div>
 			</div>
 		</div>

@@ -24,7 +24,14 @@
   
 	<!-- Main Stylesheet -->
 	<link rel="stylesheet" href="css/style.css">
-
+<style>
+	.doctor-block{
+		border: 1px solid lightblue;
+	}
+	.slick-next, .slick-prev{
+		background-color: gray;
+	}
+</style>
 </head>
 
 <body id="top">
@@ -55,7 +62,7 @@
 		<nav class="navbar navbar-expand-lg navigation" id="navbar">
 			<div class="container">
 				<a class="navbar-brand" href="index.html">
-					<img src="images/logo.png" alt="" class="img-fluid">
+					<img src="images/logo-dhc.PNG" alt="" class="img-fluid">
 				</a>
 
 				<button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarmain"
@@ -69,8 +76,26 @@
 							<a class="nav-link" href="index.html">Home</a>
 						</li>
 						<li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
-						<li class="nav-item"><a class="nav-link" href="department.html">Department</a></li>
-
+						<li class="nav-item dropdown">
+							<a class="nav-link dropdown-toggle" href="department.html" id="dropdown01"
+								data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Department <i
+									class="icofont-thin-down"></i></a>
+									<ul class="dropdown-menu dm-dept" aria-labelledby="dropdown01">
+										<li><a class="dropdown-item" href="service-hospital.html">MEDICINE</a></li>
+										<li><a class="dropdown-item" href="service-diagonstic.html">ORTHOPEDICS </a></li>
+										<li><a class="dropdown-item" href="service-diagonstic.html">NEPHROLOGY </a></li>
+										<li><a class="dropdown-item" href="service-diagonstic.html">UROLOGY </a></li>
+										<li><a class="dropdown-item" href="service-diagonstic.html">CARDIOLOGY </a></li>
+										<li><a class="dropdown-item" href="service-diagonstic.html">GYNAE & OBS </a></li>
+										<li><a class="dropdown-item" href="service-diagonstic.html">ENT </a></li>
+										<li><a class="dropdown-item" href="service-diagonstic.html">GASTROENTEROLOGY </a></li>
+										<li><a class="dropdown-item" href="service-diagonstic.html">PEDIATRICS </a></li>
+										<li><a class="dropdown-item" href="service-diagonstic.html">SKIN & VD </a></li>
+										<li><a class="dropdown-item" href="service-diagonstic.html">SURGERY </a></li>
+										<!-- <li><a class="dropdown-item" href="department.html">Hospital Service</a></li>
+										<li><a class="dropdown-item" href="department-single.html"> Diagonstic</a></li> -->
+									</ul>
+								</li>
 						<li class="nav-item dropdown">
 							<a class="nav-link dropdown-toggle" href="department.html" id="dropdown02"
 								data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Services <i
@@ -345,13 +370,13 @@
 				</div>
 			</div>
 
-			<div class="row">
+			<div class="row text-center">
 				<div class="col-lg-4 col-md-6 col-sm-6">
 					<div class="service-block mb-5">
 						<img src="https://i.ibb.co/1LqkF8f/CAP-3783.jpg" alt="" class="img-fluid">
 						<div class="content">
 							<h4 class="mt-4 mb-2 title-color">N I C U</h4>
-							<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
+							<p class="mb-4">Our NICU provides specialized care for newborns. With advanced facilities and a dedicated team, we ensure 24/7 monitoring and personalized attention for the well-being of your precious little one</p>
 							<a href="hospital-single.html?id=4" class="read-more">See Details<i
 								class="icofont-simple-right ml-2"></i></a>
 						</div>
@@ -363,7 +388,7 @@
 						<img src="https://i.ibb.co/K0fpzkX/CAP-3778.jpg" alt="" class="img-fluid">
 						<div class="content">
 							<h4 class="mt-4 mb-2  title-color"> C C U</h4>
-							<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
+							<p class="mb-4">Our CCU delivers advanced cardiac care. With a dedicated team and cutting-edge facilities, we provide 24/7 monitoring and personalized attention for optimal heart health</p>
 							<a href="hospital-single.html?id=3" class="read-more">See Details<i
 								class="icofont-simple-right ml-2"></i></a>
 						</div>
@@ -375,7 +400,7 @@
 						<img src="https://i.ibb.co/Qr3FyhB/Level-04.jpg" alt="" class="img-fluid">
 						<div class="content">
 							<h4 class="mt-4 mb-2 title-color">I C U</h4>
-							<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
+							<p class="mb-4">Experience unparalleled critical care in our ICU. Our dedicated team and advanced facilities ensure 24/7 monitoring and personalized attention for optimal patient well-being.</p>
 							<a href="hospital-single.html?id=2" class="read-more">See Details<i
 								class="icofont-simple-right ml-2"></i></a>
 						</div>
@@ -806,7 +831,7 @@
 				<div class="col-lg-4 mr-auto col-sm-6">
 					<div class="widget mb-5 mb-lg-0">
 						<div class="logo mb-4">
-							<img src="images/logo.png" alt="" class="img-fluid">
+							<img src="images/logo-dhc.PNG" alt="" class="img-fluid">
 						</div>
 						<p> ডেলটা হেলথ কেয়ার, চিটাগাং লিমিটেড।</p>
 						
@@ -936,11 +961,11 @@
                         data.forEach(doctor => {
                             var slide = document.createElement('div');
 							
-                            slide.innerHTML = `<div class="testimonial-block style-2 rounded gray-bg">
+                            slide.innerHTML = `<div class="testimonial-block style-2 doctor-block  rounded gray-bg" >
 						
-					 <div class="position-relative doctor-inner-box">
+					 <div class="position-relative doctor-inner-box" >
 							<div class="doctor-profile">
-								<div class="doctor-img">
+								<div class="doctor-img" style="height:380px">
 									<img src="images/team/1.jpg" alt="doctor-image" class="img-fluid w-100">
 								</div>
 							</div>
@@ -970,8 +995,8 @@
                         slidesToScroll: 1,
 						autoplay: true,          
                         autoplaySpeed: 3000,
-                        prevArrow: '<button type="button" class="slick-prev">Previous</button>',
-                        nextArrow: '<button type="button" class="slick-next">Next</button>',
+                        prevArrow: '<button type="button" class="slick-prev ">Previous</button>',
+                        nextArrow: '<button type="button" class="slick-next ">Next</button>',
                         responsive: [
                             {
                                 breakpoint: 768,
