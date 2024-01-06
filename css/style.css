@@ -378,10 +378,7 @@ a:focus {
   }
 }
 
-.service-block:hover{
-  background-color: rgba(31, 19, 205, 0.445);
-  color: white;
-}
+
 
 
 
@@ -714,6 +711,10 @@ a:focus {
 .service-block.mb-5:hover {
    border: 1px solid rgba(0, 0, 0, 0.041); 
   box-shadow: 0 0 38px rgba(23, 42, 83, 0.219);
+}
+
+.service-block {
+  text-align: center;
 }
 .department-service {
   margin-bottom: 40px;
