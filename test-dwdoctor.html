@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Doctor List</title>
+</head>
+<body>
+
+  <div id="departments"></div>
+  <div id="doctorList"></div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      // Fetch department data
+      let docc;
+console.log("from out side",doctors)
+	fetch("FData/doctors.json")
+	.then((res)=> res.json())
+	.then((result)=>{
+		doctors=result;
+		console.log("from in st side",doctors)
+	});
+
+  fetch("FData/department.json")
+  .then((response) => response.json())
+  .then((data) => {
+    console.log(data);
+
+	// console.log(Da)
+	const product = getProductById(1);
+// doctors.filter(doctor=>doctor.Department===product.Name);
+ docc= doctors.filter(doctor=>doctor.Department.toUpperCase()===product.Name);
+// console.log(docc);
+          // Display the first department's doctors by default
+          if (departmentData.length > 0) {
+            fetchDoctorsAndDisplay(departmentData[0].id);
+          }
+        })
+        
+        .catch(error => console.error('Error fetching department data:', error));
+        // Function to get product by ID (replace with your data fetching logic)
+function getProductById(id) {
+  return data.find(product => product.id === id);console.log(product)
+}
+function getDoctorById(id) {
+  return data.find(product => product.id === id);console.log(product)
+}
+    });
+
+
+  </script>
+
+</body>
+</html>
