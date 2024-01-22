@@ -34,7 +34,7 @@
     },
     {
       "id": 4,
-      "Name": "ECG",
+      "Name": "ETT",
       "Department": "supervisor",
       "img":"https://i.ibb.co/YNCsbfb/ecg.jpg",
       "phone":"+8801841906090",
@@ -47,7 +47,7 @@
       "id": 5,
       "Name": "Echocardiography",
       "Department": "IT",
-      "img":"https://i.ibb.co/DgbgZ0h/eco.jpg",
+      "img":"https://i.ibb.co/5vky42V/eco-ee.jpg",
       "phone":"+8801841906090",
     
           "titlee":"Echocardiography, also known as cardiac ultrasound, is the use of ultrasound to examine the heart. It is a type of medical imaging, using standard ultrasound or Doppler ultrasound. The visual image formed using this technique is called an echocardiogram, a cardiac echo, or simply an echo",
