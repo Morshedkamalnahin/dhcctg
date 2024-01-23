@@ -3,7 +3,7 @@
       "id": 1,
       "Name": "Endoscopy",
       "Department": "IT",
-      "img":"https://i.ibb.co/t4fMDs1/endoscopy.jpg",
+      "img":"https://i.ibb.co/nn2117T/endoscopy.jpg",
       "phone":"+8801841906090",
    
           "titlee":"An endoscopy is a procedure used in medicine to look inside the body. The endoscopy procedure uses an endoscope to examine the interior of a hollow organ or cavity of the body. Unlike many other medical imaging techniques, endoscopes are inserted directly into the organ. There are many types of endoscopies.",
@@ -25,7 +25,7 @@
       "id": 3,
       "Name": "Haematology",
       "Department": "Doctor",
-      "img":"https://i.ibb.co/kqX2z8L/bio.jpg",
+      "img":"https://i.ibb.co/yRwFFLT/lab.jpg",
       "phone":"+8801841906090",
 
           "titlee":"Hematology is the branch of medicine concerned with the study of the cause, prognosis, treatment, and prevention of diseases related to blood.",
@@ -36,7 +36,7 @@
       "id": 4,
       "Name": "ETT",
       "Department": "supervisor",
-      "img":"https://i.ibb.co/YNCsbfb/ecg.jpg",
+      "img":"https://i.ibb.co/TwR4Hss/ett.jpg",
       "phone":"+8801841906090",
   
           "titlee":"Electrocardiography is the process of producing an electrocardiogram, a recording of the heart's electrical activity through repeated cardiac cycles. It is an electrogram of the heart which is a graph of voltage versus time of the electrical activity of the heart using electrodes placed on the skin",
@@ -58,7 +58,7 @@
       "id": 6,
       "Name": "Ultrasonograpy",
       "Department": "IT",
-      "img":"https://i.ibb.co/KmJTqw5/ultra.jpg",
+      "img":"https://i.ibb.co/QQMB0Dj/ultra.jpg",
       "phone":"+8801841906090",
      
           "titlee":"During an ultrasound, a device called a transducer converts electrical current into sound waves, which are sent into the body’s tissues. Sound waves bounce off structures in the body and are reflected back to the transducer, which converts the waves into electrical signals. A computer converts the pattern of electrical signals into an image, which is displayed on a monitor and recorded as a digital computer image. No x-rays are used, so there is no radiation exposure during ultrasonography.",
@@ -69,7 +69,7 @@
       "id": 7,
       "Name": "X-ray",
       "Department": "IT",
-      "img":"https://i.ibb.co/k9QDhK1/xray.jpg",
+      "img":"https://i.ibb.co/HCMXSZN/xray.jpg",
       "phone":"+8801841906090",
      
           "titlee":"Age forming covered you entered the examine. Blessing scarcely confined hercontempt wondered shy. Dashwoods contented sportsmen at up no convinced cordially affection.",
@@ -91,7 +91,7 @@
       "id": 9,
       "Name": "Pathology",
       "Department": "IT",
-      "img":"https://i.ibb.co/kmjNq8G/blood-test.jpg",
+      "img":"https://i.ibb.co/DM3whvh/pathology.jpg",
       "phone":"+8801841906090",
      
           "titlee":"Age forming covered you entered the examine. Blessing scarcely confined hercontempt wondered shy. Dashwoods contented sportsmen at up no convinced cordially affection.",
