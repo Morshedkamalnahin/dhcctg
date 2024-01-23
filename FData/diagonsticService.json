@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "Name": "Endoscopy",
+      "Name": "Endoscopy", 
       "Department": "IT",
       "img":"https://i.ibb.co/nn2117T/endoscopy.jpg",
       "phone":"+8801841906090",
