@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "Name": "MEDICINE",
+    "Department": "MEDICINE",
+    "img":"https://i.ibb.co/rZfXHFk/medicine.jpg",
+    "des":"A medical specialty is a branch of medical practice that is focused on a defined group of patients, diseases, skills, or philosophy.Medicine specialist can deal the patient with all basic diseases specially medicine, surgery & gynecology."
+  },
+ 
+  
+  {
+    "id": 5,
+    "Name": "CARDIOLOGY",
+    "Department": "CARDIOLOGY",
+    "img":"https://i.ibb.co/CWPfm3V/cardiology.jpg",
+    "des":"Cardiology is the study of the heart. Cardiology is a branch of medicine that deals with disorders of the heart and the cardiovascular system. The field includes medical diagnosis and treatment of congenital heart defects, coronary artery disease, heart failure, valvular heart disease, and electrophysiology. "
+
+  },
+  {
+    "id": 9,
+    "Name": "PEDIATRICS",
+    "Department": "PEDIATRICS",
+   "img":"https://i.ibb.co/NWQTKS4/images-1.png",
+   "des":"Pediatrics is the branch of medicine dealing with the health and medical care of infants, children, and adolescents from birth up to the age of 18."
+
+  },
+  {
+    "id": 10,
+    "Name": "SKIN-&-VD",
+    "Department": "SKIN & VD",
+    "img":"/images/service/service-.jpg",
+    "des":"Dermatology and Venereology ward give developed and modern medication for skin, nails, and hair related problems. Skin infection, skin cancer, diseases related to allergy, psoriasis, atopic dermatitis, disability of different organs with infected skin and sexual disorders etc. are treated here with the help of modern medication systems."
+
+  },
+  {
+    "id": 3,
+    "Name": "NEPHROLOGY",
+    "Department": "NEPHROLOGY",
+    "img":"https://i.ibb.co/4m6XDsJ/kidny.jpg",
+    "des":"The Department of Nephrology of Delta Health Care Chittagong Limited is a leading kidney disease related health service provider of all modalities and kidney support, includes diagnosis, evaluation, and management of all acute and chronic disease conditions. It provides high quality dialysis services with various specially developed dialysis equipments.We have expert Nephrology Consultants, junior doctors, nurses and technicians who are highly experienced in patient care, and are dedicated for specialized care to patients with kidney disorders."
+    
+  },
+  {
+    "id": 4,
+    "Name": "UROLOGY & UROLOGIC SURGERY",
+    "Department": "UROLOGY",
+    "title":"Urologic",
+    "img":"https://i.ibb.co/YjnVYxq/urology.jpg",
+    "des":"Urology is the medical and surgical specialty that involves diagnosing and treating disorders of the urinary system and adrenal glands in both males and females, as well as the genitals in men. The urinary tract is important because it filters the blood and stores and processes urine. The adrenal glands produce critical hormones.Minimally invasive urological surgery treats urological conditions in a way that’s less damaging to your body and has fewer risks than open surgery. This reduces your recovery time and allows you to return to your everyday activities faster. There are different technologies and techniques, and they’re continually improving",
+    "surgeries":["Adrenal gland surgery","Bladder surgery","Genital and pelvic reconstruction","Kidney stone removal","Kidney surgery","Pelvic prolapse repair","Prostate surgery","Testicular surgery","Ureter surgery","Vasectomy","Vasectomy reversal"]
+  },
+  {
+    "id": 2,
+    "Name": "ORTHOPEDICS & ORTHOPEDICS SURGERY",
+    "Department": "ORTHOPEDICS",
+    "title":"ORTHOPEDIC",
+    "img":"https://i.ibb.co/FsbnGxV/ortho.jpg",
+    "des":"Orthopedic surgery or orthopedics is the branch of surgery concerned with conditions involving the musculoskeletal system. Orthopedic surgeons use both surgical and nonsurgical means to treat musculoskeletal trauma, spine diseases, sports injuries, degenerative diseases, infections, tumors, and congenital disorders.",
+    "surgeries":[" ACL Reconstruction Surgery","Knee Replacement Surgery","Shoulder Replacement Surgery","Hip Replacement Surgery","Knee Arthroscopy","Shoulder Arthroscopy","Ankle Repair","Spinal Surgeries","Joint Fusion"," Trigger Finger Release"]
+  },
+ 
+  {
+    "id": 6,
+    "Name": "Gynecology and obstetrics Surgery",
+    "title":"Gynecology and obstetric",
+    "Department": "GYNAE & OBS",
+   "img":"https://i.ibb.co/k2dw7s2/gynae.jpg",
+   "des":"Gynaecology is the study of the female reproductive system – this includes the uterus, ovaries, cervix and vagina. The functions, medical disorders and diseases of the female reproductive system all fall under the heading of gynaecology.and Routine General surgery done by every consultant.Laparoscopic surgery is a minimally invasive surgical technique used in the abdominal and pelvic areas. It uses the aid of a laparoscope — a thin, telescopic rod with a camera at the end — to see inside your body without opening it all the way up. Instead of the 6- to 12-inch cut necessary for open abdominal surgery, laparoscopic surgery uses two to four small incisions of half an inch or less. One is for the camera, and the others are for the surgical instruments. Minimally invasive surgery may also be called “keyhole surgery,” referring to these small incisions. ",
+   "surgeries":["Normal Delivery","Cesarean Section","Abdominal Hysterectomy","Vaginal Hysterectomy with PFR","Wertheim’s Hysterectomy","Laparoscopic Hysterectomy","Hysterosalpingography (HSG)","Diagnostic D/C (Dilatation & Curettage)","Dilatation and Evacuation (D/E)","Cervical Coagulation","LAVH","Laparotomy","Tubal ligation","Hysterectomy","D&C"]
+
+  },
+  {
+    "id": 7,
+    "Name": "ENT & ENT Surgery",
+    "Department": "ENT",
+    "title":"ENT",
+   "img":"https://i.ibb.co/RD2vpZH/ENT.jpg",
+   "des":"Our Department of ENT & Head Neck Surgery consists of experienced Surgeons including Anesthetists who are available to provide you the best possible service in Bangladesh. Our team is committed to improving the quality of life of our patients.The focus of the department is to provide each and every patient with the care that they deserve to improve and maintain their life style. We have highly sophisticated, state of the art surgical equipments & instruments ensuring patient’s safety in surgical procedures in a safe environment. ",
+   "surgeries":["Endoscopic Neck Surgery (Including Endoscopic Thyroidectomy)","DNS e HIT Operation, Nasal Polyp","Endoscopic Skull Base Surgery","Laryngectomy Neck Dissection, Thyroid Surgery, Neck Mass Surgery, Oral Cavity and Tongue Surgery","Tonsillectomy and Adenoidectomy, Cleft Lip and Palate, Oral, Tongue, Pharyngeal and Laryngeal Tumor Surgery","Ear Microsurgery, Hearing Restoration Surgery","All Types of ENT and Head Neck Cancer Surgery"]
+
+  },
+ 
+
+  {
+    "id": 11,
+    "Name": "General & Laparoscopic Surgery",
+    "Department": "SURGERY",
+    "title":"General & Laparoscopic",
+    "img":"https://i.ibb.co/nLZs35r/ordinary-busy-day-surgeon.jpg",
+    "des":"Routine General surgery done by every consultant.Surgery is a medical specialty that uses manual and/or instrumental techniques to physically reach into a subject's body in order to investigate or treat pathological conditions such as a disease or injury, to alter bodily functions, to improve appearance, or to remove/replace unwanted tissues or foreign bodies.<br/> Laparoscopic surgery is a minimally invasive surgical technique used in the abdominal and pelvic areas. It uses the aid of a laparoscope — a thin, telescopic rod with a camera at the end — to see inside your body without opening it all the way up. Instead of the 6- to 12-inch cut necessary for open abdominal surgery, laparoscopic surgery uses two to four small incisions of half an inch or less. One is for the camera, and the others are for the surgical instruments. Minimally invasive surgery may also be called “keyhole surgery, referring to these small incisions.",
+    "surgeries":["Laparoscopic cholecystectomy (gall bladdor)","Laparoscopic appecdesectomy","Hernia repair.","Peritoneal dialysis catheter – insertion and removal","Adrenalectomy","Colon Surgery (Colectomy)","Distal Pancreatectomy","Heller Myotomy (Surgery for Achalasia)","Rectal Resection Surgery","Stomach Cancer Surgery (Gastrectomy) & benign gastric lesions"]
+
+  },
+  {
+    "id": 12,
+    "Name": "NEUROLOGY",
+    "Department": "NEUROLOGY",
+    "img":"https://i.ibb.co/7y3vLKW/neorology.jpg",
+    "des":"Neurology is the branch of medicine dealing with the diagnosis and treatment of all categories of conditions and disease involving the nervous system, which comprises the brain, the spinal cord and the peripheral nerves. Neurological practice relies heavily on the field of neuroscience, the scientific study of the nervous system."
+
+  },
+  {
+    "id": 13,
+    "Name": "DIABETOLOGY",
+    "Department": "DIABETOLOGY",
+    "img":"https://i.ibb.co/2dVTwF1/download.jpg",
+    "des":"This Department is established to improve the quality of life for people with diabetes and other endocrinology disorders. For diabetes patients, we help reduce complications and sufferings and contribute to the ultimate prevention and cure. For patients with other endocrinology disorders, including nodules in the endocrine system, we offer specialty care and individualized treatment plans that focus on the patient’s needs."
+
+  },
+  {
+    "id": 14,
+    "Name": "PEDIATRIC PLASTIC SURGERY",
+    "Department": "PEDIATRIC PLASTIC SURGERY",
+    "img":"https://i.ibb.co/NT4RSFT/download.png",
+    "des":" Pediatric plastic surgery is plastic surgery performed on children. Its procedures are most often conducted for reconstructive or cosmetic purposes. In children, this line is often blurred, as many congenital deformities (cleft lip & palate etc ) impair physical function as well as aesthetics. Surgery is defined as treating injuries or conditions with operative instrumental treatment. Plastic is a derivative of the Greek word plastikos, which means to build up or to take form. This is a logical prefix, as parts of the body are remade or reformed during most reconstructive and cosmetic surgical procedures. Children make up roughly 3% of all plastic surgery procedures, and the majority of these procedures correct a congenital deformity."
+
+  },
+  {
+    "id": 8,
+    "Name": "DENTAL & MAXILLOFACIAL",
+    "Department": "DENTAL & MAXILLOFACIAL",
+    "img":"https://i.ibb.co/HFt2hjp/download-1.jpg",
+    "des":"Department of Dental & Maxillofacial Surgery of Delta health care ctg ltd. offers full scope of the dental specialty, including general dentistry and specialized services in oral & maxillofacial surgery, orthodontics and restorative dentistry (endodontics and prosthodontics). Our aim is to deliver oral health care of the highest standard to our patients through experienced dental surgeons and modern technology.The department provides diagnosis, management and surgical treatment of defects and injuries related to the function and aesthetics of the teeth, gums and jaws. It also provides excellent surgical service for all sorts of maxillofacial surgery & disease."
+
+  }
+  
+]

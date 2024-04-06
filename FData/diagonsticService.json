@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "Name": "Endoscopy", 
+      "Department": "IT",
+      "img":"https://i.ibb.co/nn2117T/endoscopy.jpg",
+      "phone":"+8801841906090",
+   
+          "titlee":"An endoscopy is a procedure used in medicine to look inside the body. The endoscopy procedure uses an endoscope to examine the interior of a hollow organ or cavity of the body. Unlike many other medical imaging techniques, endoscopes are inserted directly into the organ. There are many types of endoscopies.",
+          "details":"An endoscopy is a procedure used in medicine to look inhside the body. The endoscopy procedure uses an endoscope to examine the interior of a hollow organ or cavity of the body. Unlike many other medical imaging techniques, endoscopes are inserted directly into the organ. There are many types of endoscopies..Tempore"
+      
+    },
+    {
+      "id": 2,
+      "Name": "CT scan",
+      "Department": "RMO",
+      "img":"https://i.ibb.co/rkdW8m1/CT-scan.jpg",
+      "phone":"+8801841906090",
+    
+          "titlee":"A computed tomography scan (usually abbreviated to CT scan; formerly called computed axial tomography scan or CAT scan) is a medical imaging technique used to obtain detailed internal images of the body.[2] The personnel that perform CT scans are called radiographers or radiology technologists.[3][4]CT scanners use a rotating X-ray tube and a row of detectors placed in a gantry to measure X-ray attenuations by different tissues inside the body. The multiple X-ray measurements taken from different angles are then processed on a computer using tomographic reconstruction algorithms to produce tomographic (cross-sectional) images (virtual slices) of a body. CT scan can be used in patients with metallic implants or pacemakers, for whom magnetic resonance imaging (MRI) is contraindicated.",
+          "details":"A computed tomography scan (usually abbreviated to CT scan; formerly called computed axial tomography scan or CAT scan) is a medical imaging technique used to obtain detailed internal images of the body.[2] The personnel that perform CT scans are called radiographers or radiology technologists.[3][4]CT scanners use a rotating X-ray tube and a row of detectors placed in a gantry to measure X-ray attenuations by different tissues inside the body. The multiple X-ray measurements taken from different angles are then processed on a computer using tomographic reconstruction algorithms to produce tomographic (cross-sectional) images (virtual slices) of a body. CT scan can be used in patients with metallic implants or pacemakers, for whom magnetic resonance imaging (MRI) is contraindicated."
+      
+    },
+    {
+      "id": 3,
+      "Name": "Haematology",
+      "Department": "Doctor",
+      "img":"https://i.ibb.co/yRwFFLT/lab.jpg",
+      "phone":"+8801841906090",
+
+          "titlee":"Hematology is the branch of medicine concerned with the study of the cause, prognosis, treatment, and prevention of diseases related to blood.",
+          "details":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum recusandae dolor autemlaudantium, quaerat vel dignissimos. Magnam sint suscipit omnis eaque unde eos aliquamdistinctio, quisquam iste, itaque possimus . Lorem ipsum dolor sit amet, consecteturadipisicing elit. Eveniet alias modi eaque, ratione recusandae cupiditate dolorumrepellendus iure eius rerum hic minus ipsa at, corporis nesciunt tempore vero voluptas.Tempore"
+      
+    },
+    {
+      "id": 4,
+      "Name": "ETT",
+      "Department": "supervisor",
+      "img":"https://i.ibb.co/TwR4Hss/ett.jpg",
+      "phone":"+8801841906090",
+  
+          "titlee":"Electrocardiography is the process of producing an electrocardiogram, a recording of the heart's electrical activity through repeated cardiac cycles. It is an electrogram of the heart which is a graph of voltage versus time of the electrical activity of the heart using electrodes placed on the skin",
+          "details":"Electrocardiography is the process of producing an electrocardiogram, a recording of the heart's electrical activity through repeated cardiac cycles. It is an electrogram of the heart which is a graph of voltage versus time of the electrical activity of the heart using electrodes placed on the skin"
+      
+    },
+    {
+      "id": 5,
+      "Name": "Echocardiography",
+      "Department": "IT",
+      "img":"https://i.ibb.co/5vky42V/eco-ee.jpg",
+      "phone":"+8801841906090",
+    
+          "titlee":"Echocardiography, also known as cardiac ultrasound, is the use of ultrasound to examine the heart. It is a type of medical imaging, using standard ultrasound or Doppler ultrasound. The visual image formed using this technique is called an echocardiogram, a cardiac echo, or simply an echo",
+          "details":"Echocardiography, also known as cardiac ultrasound, is the use of ultrasound to examine the heart. It is a type of medical imaging, using standard ultrasound or Doppler ultrasound. The visual image formed using this technique is called an echocardiogram, a cardiac echo, or simply an echo"
+      
+    },
+    {
+      "id": 6,
+      "Name": "Ultrasonograpy",
+      "Department": "IT",
+      "img":"https://i.ibb.co/QQMB0Dj/ultra.jpg",
+      "phone":"+8801841906090",
+     
+          "titlee":"During an ultrasound, a device called a transducer converts electrical current into sound waves, which are sent into the body’s tissues. Sound waves bounce off structures in the body and are reflected back to the transducer, which converts the waves into electrical signals. A computer converts the pattern of electrical signals into an image, which is displayed on a monitor and recorded as a digital computer image. No x-rays are used, so there is no radiation exposure during ultrasonography.",
+          "details":"During an ultrasound, a device called a transducer converts electrical current into sound waves, which are sent into the body’s tissues. Sound waves bounce off structures in the body and are reflected back to the transducer, which converts the waves into electrical signals. A computer converts the pattern of electrical signals into an image, which is displayed on a monitor and recorded as a digital computer image. No x-rays are used, so there is no radiation exposure during ultrasonography."
+      
+    },
+    {
+      "id": 7,
+      "Name": "Digital X-ray",
+      "Department": "IT",
+      "img":"https://i.ibb.co/HCMXSZN/xray.jpg",
+      "phone":"+8801841906090",
+     
+          "titlee":"Age forming covered you entered the examine. Blessing scarcely confined hercontempt wondered shy. Dashwoods contented sportsmen at up no convinced cordially affection.",
+          "details":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum recusandae dolor autemlaudantium, quaerat vel dignissimos. Magnam sint suscipit omnis eaque unde eos aliquamdistinctio, quisquam iste, itaque possimus . Lorem ipsum dolor sit amet, consecteturadipisicing elit. Eveniet alias modi eaque, ratione recusandae cupiditate dolorumrepellendus iure eius rerum hic minus ipsa at, corporis nesciunt tempore vero voluptas.Tempore"
+      
+    },
+    {
+      "id": 8,
+      "Name": "Bio-Chemistry",
+      "Department": "IT",
+      "img":"https://i.ibb.co/gDMysK5/091A6992.jpg",
+      "phone":"+8801841906090",
+     
+          "titlee":"Age forming covered you entered the examine. Blessing scarcely confined hercontempt wondered shy. Dashwoods contented sportsmen at up no convinced cordially affection.",
+          "details":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum recusandae dolor autemlaudantium, quaerat vel dignissimos. Magnam sint suscipit omnis eaque unde eos aliquamdistinctio, quisquam iste, itaque possimus . Lorem ipsum dolor sit amet, consecteturadipisicing elit. Eveniet alias modi eaque, ratione recusandae cupiditate dolorumrepellendus iure eius rerum hic minus ipsa at, corporis nesciunt tempore vero voluptas.Tempore"
+      
+    },
+    {
+      "id": 9,
+      "Name": "Pathology",
+      "Department": "IT",
+      "img":"https://i.ibb.co/DM3whvh/pathology.jpg",
+      "phone":"+8801841906090",
+     
+          "titlee":"Age forming covered you entered the examine. Blessing scarcely confined hercontempt wondered shy. Dashwoods contented sportsmen at up no convinced cordially affection.",
+          "details":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum recusandae dolor autemlaudantium, quaerat vel dignissimos. Magnam sint suscipit omnis eaque unde eos aliquamdistinctio, quisquam iste, itaque possimus . Lorem ipsum dolor sit amet, consecteturadipisicing elit. Eveniet alias modi eaque, ratione recusandae cupiditate dolorumrepellendus iure eius rerum hic minus ipsa at, corporis nesciunt tempore vero voluptas.Tempore"
+      
+    }
+    
+  ]
+  

@@ -1,0 +1,95 @@
+[
+    {
+      "id": 1,
+      "Name": "Operation Theatres",
+      "img":"https://i.ibb.co/M9WYKgB/CAP-3798.jpg",
+      "phone":"+8801841-906090",
+      "title":"Our operation theatres (OT) are state-of-the-art facilities designed for optimal efficiency, and facilitate a seamless operational flow for performing complex surgical operations.",
+      "desc":"Our operation theatres (OT) are state-of-the-art facilities designed for optimal efficiency, and facilitate a seamless operational flow for performing complex surgical operations. Every one of our operating rooms is equipped with sophisticated equipment from positive pressure rooms and ceiling-mounted equipment units to the latest advancements in surgical technology for performance at the highest level. To reduce the risk of infection, total OT floor is covered with epoxy; all units operate with single-use surgical devices only. Our operation theater is furnished with upgrade surgical equipments- Like, C- Arm Machine (Siemens), Laser Machine (Luminous), Thunder bit Machine for general & urological operation specially saline TURP, C- Arm compatible OT Table with Orthopedic extension, Anesthesia Machine with special monitor, LED OT Light, Thunder bit diathermy Saline TURP  Set, Laparoscopic machine with Hi definition Camera System with all accessories.",
+      "services":[" C- Arm Machine (Siemens)"," Laser Machine (Luminous,"," Thunder bit Machine for general & urological operation specially saline TURP",", C- Arm compatible OT Table with Orthopedic extension"," Anesthesia Machine with special monitor, LED OT Light"," Thunder bit diathermy Saline TURP  Set","Laparoscopic machine with Hi definition Camera System with all accessories."]
+    },
+    {
+      "id": 2,
+      "Name": "ICU & HDU",
+      "img":"https://i.ibb.co/Qr3FyhB/Level-04.jpg",
+      "phone":"+8801866-939301",
+      "title":"Experience unparalleled critical care in our ICU. Our dedicated team and advanced facilities ensure 24/7 monitoring and personalized attention for optimal patient well-being. ",
+      "desc":"critical care within our Intensive Care Unit (ICU) at Delta health Care Chittagong Ltd. Committed to patient well-being, our specialized team provides round-the-clock monitoring and personalized attention. Our ICU is meticulously equipped with state-of-the-art facilities to address the most complex medical conditions, ensuring each patient receives the highest standard of care. Whether facing emergencies or undergoing planned procedures, our advanced medical technology and experienced professionals prioritize your health. At Delta health Care Chittagong Ltd., we merge precision and compassion to create an environment where every patient receives the specialized care they need. Trust us to safeguard your health and well-being with unwavering dedication, making your journey to recovery as seamless and comfortable as possible. Your health is our priority, and we are dedicated to providing the optimal care for your peace of mind.",
+      "services":["24 hours supervision under guidance of highly trained consultant with 10 years overseas experience in ICU.","24 hours presence of internist and ICU doctors.","24 hours trained nursing staff for each individual patient.","Central monitoring system.","Hi-Tech vital sign monitor for every patient.","Invasive & non-invasive haemodynamic monitoring system.","Bispectral Index (BIS) monitoring for assessment of brain activity – brain monitoring.  ","Syringe & infusion pumps for metered medications and accurate volume infusions.","Ultramodern ventilator with monitoring facilities to aid patient's own breathing effort.","Instant ABG (arterial blood gas) analysis within ICU.","Instant electrolyte assessment within ICU.","Portable X-ray machine within ICU.","Bed side Echocardiogram and Ultrasonogram.","Total Parenteral Nutrition (TPN) for patients who are unable to have enteral nutrition","Highly specialized physiotherapy service","  C – PAP, Bi-pap  Machine ","Beside dialysis"]
+    },
+    {
+      "id": 3,
+      "Name": "CCU & PCCU",
+      "img":"https://i.ibb.co/K0fpzkX/CAP-3778.jpg",
+      "phone":"+8801866-939302",
+      "title":"Our CCU delivers advanced cardiac care. With a dedicated team and cutting-edge facilities, we provide 24/7 monitoring and personalized attention for optimal heart health",
+      "desc":"CCU is specialized in the care of patients with all types of cardiac emergency like – Heart attacks (MI), unstable angina, Cardiac dysrhythmia, Hypertensive emergency, Heart failure and Various other cardiac conditions that require continuous monitoring & treatment.",
+      "services":["  24 hours consultant cardiologist."," Dedicated highly trained doctors and nursing staff.     \t"," Central cardiac monitor, Bed side cardiac monitor.","  Defibrillator","  Blood gas analyzer","  Central oxygen delivery & suction system.","  Bi – PAP Machine","  C – PAP Machine ","Bedside echocardiography"]
+
+    },
+    {
+      "id": 4,
+      "Name": "NICU & PICU",
+      "img":"https://i.ibb.co/1LqkF8f/CAP-3783.jpg",
+      "phone":"+8801841-090604",
+      "title":"Our NICU provides specialized care for newborns. With advanced facilities and a dedicated team, we ensure 24/7 monitoring and personalized attention for the well-being of your precious little one",
+      "desc":"Neonatal and Pediatrics Intensive Care Unit is a very delicate and sensitive part of the hospital where neonates or new born babies are treated for life threatening illnesses. We provide top class, specialized personal care for every critical patient on 1:1 basis nursing service supervised by trained NICU and PICU doctors 24 hours a day, 7 days a week.Neonatology is a branch of medicine that is concerned with the care, development and diseases of newborn infants especially for ill or premature newborns and those with disorders. Neonatal means the first 28 days of an infant’s life. Neonatology is a branch of Pediatrics that deals with the diseases care of newborns. 11 bed NICU and 7 bed PICU with cabin dedicated for critically ill new born patients",
+      "services":["24 hours supervision under guidance of highly trained consultant with over 10 year overseas experience in NICU and PICU.","24 hours presence of NICU and PICU doctors.","24 hours trained nursing staff for each individual patient (1:1 ratio in level lll).","Hi-Tech vital sign monitors for every baby.","Invasive & non-invasive haemodynamic monitoring system.","Syringe & infusion pumps for metered medications and accurate volume infusions.","Bottle CPAP facilities.","Instant ABG (arterial blood gas) analysis and electrolyte assessment.","Modern neonatal incubator and also radiant warmer and incubators.","Portable X-ray machine within the Care Unit.","Bed side Echocardiogram and Ultra sonogram."]
+
+    },
+    {
+      "id": 5,
+      "Name": "Labour OT",
+      "img":"https://i.ibb.co/zbBbXRc/CAP-3794.jpg",
+      "phone":"+8801841-906090",
+      "desc":"Completely separate Labour Unit - A unique facilities of DHC. Labour unit dedicated for Safe delivery (normal or cesarean) of a women. Maternal and child care, pregnancy planning and cheek-up is daily activity of this unit. We expanded our gynae unit with general bed, observation and post operative service.",
+      "services":[" Adjacent NICU"," Well furnished  post-operative and pre-operative"," NVD facilities "," All kinds of Obstetrics operation"]
+
+    },
+    {
+      "id": 6,
+      "Name": " Kidney Dialysis Unit",
+      "img":"https://i.ibb.co/MfZmbHw/dialysis.jpg",
+      "phone":"+8801841-242824",
+      "title":"Five Fresenius medical care AG & Co. KG4A (Germany) dialysis machines with all modern equipment used for dialysis of patient with CKD and acquit renal failure.",
+      "desc":"Five Fresenius medical care AG & Co. KG4A (Germany) dialysis machines with all modern equipment used for dialysis of patient with CKD and acquit renal failure. ",
+      "services":["In-patient hemodialysis: for critically ill patients or those needing close monitoring.","Outpatient hemodialysis: Flexible scheduling for patients who can manage treatment at home or the clinic.","Vascular access services: Placement and maintenance of catheters for dialysis access.","Pre-dialysis education and support. Help patients understand their condition and prepare for dialysis"]
+
+    },
+    {
+      "id": 8,
+      "Name": "24/7 Emergency Care",
+      "img":"https://i.ibb.co/xsdhNHc/091A6796.jpg",
+      "phone":"+8801841-906040",
+      "title":"Responsive 24/7 emergency care at Delta Health Care Chittagong Ltd. Our dedicated team ensures immediate attention and advanced medical interventions for prompt and effective emergency services ",
+      "desc":"Our 24/7 Emergency Services combine immediate care with advanced medical interventions. From trauma to critical conditions, our expert team is prepared to deliver swift and effective responses. Equipped with cutting-edge technology, our Emergency Department ensures patients receive prompt attention and compassionate care when every moment matters. Trust [Your Hospital's Name] for reliable and responsive emergency services, where our commitment to your well-being shines through, providing the care and support you need during critical situations, day or night ",
+      "services":["Emergency is modern and well equipped Emergency Department in this territory providing services 24X7","It is a Reception Management area for all emergency cases","Working 24x7 and ready to provide services to male-female of all age groups","Any (patient)  with serious medical or surgical condition in need of an immediate management","We have 24/7 Ambulance service with dedicated BLS & ALS medical team ( EMT)","Registration of patient  for all emergency patient seeking for care","Help in completing patient’s personal data","Guides and provides information to patients and attendant","Help in problem solving","Receiving emergency call for patient care and ambulance services & directing information to proper authority through proper channel"]
+
+    },
+    {
+      "id": 9,
+      "Name": "Central Pharmacy",
+      "img":"https://i.ibb.co/b5sbZtD/Whats-App-Image-2024-03-27-at-1-56-14-PM.jpg",
+      "phone":"+8801841-906090",
+      "title":"The Pharmacy at Delta Health Care is open 24 hours a day, ensuring both our inpatients and the general public have access to a full-service pharmacy whenever they need it most. Our team of highly trained and knowledgeable pharmacists and licensed Pharmacy Technicians can answer your dosage and drug-specific questions. You can find us on the ground floor of Doctors Hospital next to the cashier's window.",
+      "desc":"The Pharmacy at Delta Health Care is open 24 hours a day, ensuring both our inpatients and the general public have access to a full-service pharmacy whenever they need it most. Our team of highly trained and knowledgeable pharmacists and licensed Pharmacy Technicians can answer your dosage and drug-specific questions. You can find us on the ground floor of Doctors Hospital next to the cashier's window."
+
+    },
+    {
+      "id": 10,
+      "Name": "Cabine & Genaral Bed",
+      "img":"https://i.ibb.co/vvwrX9T/CAP-3806.jpg",
+      "phone":"+8801841-906090",
+      "title":"Our hospital cabins feature modern amenities, ensuring patient comfort and privacy. Each general bed is equipped with advanced monitoring systems, promoting a healing environment. Our commitment to healthcare excellence is reflected in the design and functionality of these cabins, fostering a positive experience for patients.",
+      "desc":"One-stop cabin service enables patients to receive every service doorstep without extra hassle. Medicine, Pathological investigation all will be delivered to the cabin by hospital staff. This reduces patient attendant hassle significantly. Our cabins are well decorated and ensure a home-like experience."
+    },
+    {
+      "id": 11,
+      "Name": "IPD & OPD",
+      "img":"https://i.ibb.co/3CWWPTF/opd.jpg",
+      "phone":"+8801841-906090",
+      "title":"OUTPATIENT SERVICES (OPD), specialist consultation facilities are available throughout the week or on specified days both in the morning and evening. After O.P.D. hours they are also available for consultation during emergency. The patient services are ably supported by diagnostic services and laboratory services.In the INPATIENT SERVICES (IPD), facilities are made available for all Surgical and Medical cases, except in the case of infectious / communicable diseases. Resident Medical Officers are available to provide round the clock medical Services including emergency care under supervision of qualified experienced doctors.",
+      "desc":"OUTPATIENT SERVICES (OPD), specialist consultation facilities are available throughout the week or on specified days both in the morning and evening. After O.P.D. hours they are also available for consultation during emergency. The patient services are ably supported by diagnostic services and laboratory services.<br><br> In the INPATIENT SERVICES (IPD), facilities are made available for all Surgical and Medical cases, except in the case of infectious / communicable diseases. Resident Medical Officers are available to provide round the clock medical Services including emergency care under supervision of qualified experienced doctors."
+    }
+    
+  ]
