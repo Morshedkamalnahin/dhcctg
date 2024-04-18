@@ -21,6 +21,7 @@
 
 	<!-- Main Stylesheet -->
 	<link rel="stylesheet" href="css/style.css">
+	
 
 </head>
 
@@ -394,12 +395,12 @@ if(docc.length>0){
 	dotorstItem.innerHTML=`<div class="position-relative  service-block mb-3 doctor-inner-box">
 						<div class="doctor-profile">
 							<div class="doctor-img">
-								<img src=${element.img} alt="doctor-image" class="img-fluid w-100" style="height:220px">
+								<img src=${element.img} alt="doctor-image" class="img-fluid w-100"">
 							</div>
 						</div>
-						<div class="content mt-3" style="height:100px">
+						<div class="content mt-3" >
 							<h5 class="mb-0"><a href="doctor-single.html?id=${element.id}">${element.Name}</a></h5>
-							<p>${element.designation}</p>
+							<small>${element.designation}</small>
 						</div>
 					</div>`;
 
@@ -443,7 +444,7 @@ if (product) {
 			</div>-->
 
 			<div class="row">
-				<div class="col-lg-8">
+				<div class="col-lg-8 order-1">
 					<div class="department-content mt-5">
 						<h3 class="text-md">${product.Name}</h3>
 						<div class="divider my-4"></div>
@@ -464,7 +465,7 @@ if (product) {
 			
 							
 				
-			</div>	<div class="col-lg-4">
+			</div>	<div class="col-lg-4 order-2 ">
 					<img src=${product.img} alt="" class="img-fluid w-100"></div>
 		</div> 
 	</section>`;
